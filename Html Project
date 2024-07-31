@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <P><big><b><u><i>My Education:</i></u></b></big></P>
+    <p> I am  Persuing My BCA</p>
+    <p> Cureently I am In BCA 3<sup>rd</sup></p>
+    <p><B>This is My Last Year Result:</B></p>
+<img src="https://kvsroernakulam.in/wp-content/uploads/2020/01/RCUB-Results.png" height="400"/>
+    <hr>
+    <p><big><b><i><u>My Experience:</u></i></b></big></p>
+    <P> As Per My Educatiuon I am Currently Persuing the BCA And Year is 3<sup>rd</sup></P>
+    <p>I have 2 year of Coding Experince in HTML,JAVA,JAVASCRIPT and CSS </p>
+    <p><b> I have Certification In 3 Laguages For Proof:</b></p>
+    <p><b><i>JavaScipt Certificate:</i></b></p>
+    <img src= "https://www.w3schools.com/js/img_cert_js.jpg" height="400"/>
+    <p><B><I>Html Certificate:</I></B></p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKxF9QTZEMviLaDq-nq5ooyWKxTHs1w3ivbQ&s" height="400"/>
+    <p><b><i>CSS Certificate:</i></b></p>
+<img src="https://www.w3schools.com/css/img_cert_css.jpg" height="400"/>
+    <p>This Is 3 Certificate i have as per i told You<br>
+     And I also Work on Big Project To See That My All Project You Need To Click On The Given Below Link:</p>
+<a href="https://www.linkedin.com/feed/"> My Linkedin Profile </a>
+    <p><i> Thank You For Visiting My Linkedin Profile.</i></p>
+   <hr>
+   <p><big><b><u><i>My Projects:</i></u></b></big></p>
+   <P> I Have Done So Many Project In My 2 Years Of Coding Jeorney <br> I Have Done So Many Project In CSS, JAVASCIPT, HTML.<br>So Many Frontent And Backend Web And Application Development Projects<br>
+       To Watch My Project And Coding Skills Click On The Given Link Bellow:</P>
+    <a href="https://github.com/Aryan-Sapkale/Aryan-Sapkale-Demo">My Github Profile</a> 
+    <p><i>Thank You For Visiting My Github Profile.</i></p>
+<h3>I Hope You Like My Information 
+    And You Considering Me The Best <b><u><u>/FullStack Developer</u></b> For Your Company <br> Thank You So So Much Sir/Madam.
+</h3>
+</body>
+</html>
